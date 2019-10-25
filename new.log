@@ -1,0 +1,1412 @@
+2019-10-20 23:47:06,289 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:100] - INFO: 开始每日刷新
+2019-10-20 23:47:06,293 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\urllib3\connectionpool.py[line:815] - DEBUG: Starting new HTTPS connection (1): www.piaohua.com:443
+2019-10-20 23:47:08,644 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\urllib3\connectionpool.py[line:396] - DEBUG: https://www.piaohua.com:443 "GET / HTTP/1.1" 200 None
+2019-10-20 23:47:08,765 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-10-20 23:47:08,765 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.002366742794288883
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.02015209264287547
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.06851374098108436
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.04394059928397169
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-10-20 23:47:08,766 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.035625089185150276
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.363512527007969
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-10-20 23:47:08,767 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dianying.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/daylianxuju.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/zuixindianying.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dianying.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1019/42746.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1019/42745.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1019/42747.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1019/42744.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1017/42742.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1017/42740.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1017/42739.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1017/42726.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1016/42725.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1015/42717.html
+2019-10-20 23:47:08,786 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1015/42715.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1014/42714.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/0920/42636.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1012/42713.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1012/42711.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1012/42709.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1011/42708.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/0919/42635.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1010/42702.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1011/42706.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1010/42704.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/aiqing/2019/1010/42705.html
+2019-10-20 23:47:08,787 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1010/42703.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1010/42700.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/daylianxuju.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1007/42690.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1007/42687.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1005/42675.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1005/42674.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42728.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1006/42684.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1008/42698.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1008/42697.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42738.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42737.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42734.html
+2019-10-20 23:47:08,788 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42733.html
+2019-10-20 23:49:30,250 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:100] - INFO: 开始每日刷新
+2019-10-20 23:49:30,253 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\urllib3\connectionpool.py[line:815] - DEBUG: Starting new HTTPS connection (1): www.piaohua.com:443
+2019-10-20 23:49:30,964 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\urllib3\connectionpool.py[line:396] - DEBUG: https://www.piaohua.com:443 "GET / HTTP/1.1" 200 None
+2019-10-20 23:49:31,080 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-10-20 23:49:31,080 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-10-20 23:49:31,080 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.002366742794288883
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.02015209264287547
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.06851374098108436
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.04394059928397169
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.035625089185150276
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.363512527007969
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:49:31,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:49:31,082 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-10-20 23:49:31,082 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-10-20 23:49:31,082 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-10-20 23:49:31,082 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-10-20 23:49:31,082 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-10-20 23:49:31,082 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-10-20 23:49:31,082 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-10-20 23:49:31,082 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dianying.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/daylianxuju.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/zuixindianying.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dianying.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1019/42746.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1019/42745.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1019/42747.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1019/42744.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1017/42742.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1017/42740.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1017/42739.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1017/42726.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1016/42725.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1015/42717.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1015/42715.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1014/42714.html
+2019-10-20 23:49:31,101 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/0920/42636.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1012/42713.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1012/42711.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1012/42709.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1011/42708.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/0919/42635.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1010/42702.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1011/42706.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1010/42704.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/aiqing/2019/1010/42705.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1010/42703.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1010/42700.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/daylianxuju.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1007/42690.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1007/42687.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1005/42675.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1005/42674.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42728.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1006/42684.html
+2019-10-20 23:49:31,102 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1008/42698.html
+2019-10-20 23:49:31,103 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1008/42697.html
+2019-10-20 23:49:31,103 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42738.html
+2019-10-20 23:49:31,103 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42737.html
+2019-10-20 23:49:31,103 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42734.html
+2019-10-20 23:49:31,103 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42733.html
+2019-10-20 23:49:31,107 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:146] - INFO: Scrapy 1.7.2 started (bot: piaohua)
+2019-10-20 23:49:31,108 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:149] - INFO: Versions: lxml 4.4.0.0, libxml2 2.9.5, cssselect 1.0.3, parsel 1.5.1, w3lib 1.20.0, Twisted 19.2.1, Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)], pyOpenSSL 19.0.0 (OpenSSL 1.1.1c  28 May 2019), cryptography 2.7, Platform Windows-10-10.0.17763-SP0
+2019-10-20 23:49:31,119 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\crawler.py[line:49] - INFO: Overridden settings: {'BOT_NAME': 'piaohua', 'DOWNLOAD_DELAY': 1, 'LOG_FILE': 'C:\\Scrapy\\log\\scrapy_1571586570.0216303_.log', 'LOG_STDOUT': True, 'NEWSPIDER_MODULE': 'piaohua.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['piaohua.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5'}
+2019-10-20 23:49:31,144 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\extensions\telnet.py[line:60] - INFO: Telnet Password: aeb432d196fd3d10
+2019-10-20 23:49:31,169 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\middleware.py[line:48] - INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2019-10-20 23:49:31,492 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\middleware.py[line:48] - INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2019-10-20 23:49:31,500 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\middleware.py[line:48] - INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2019-10-20 23:49:31,505 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\middleware.py[line:48] - INFO: Enabled item pipelines:
+['piaohua.pipelines.PiaohuaPipeline']
+2019-10-20 23:49:31,505 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:256] - INFO: Spider opened
+2019-10-20 23:49:31,509 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\extensions\logstats.py[line:48] - INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2019-10-20 23:49:31,511 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\extensions\telnet.py[line:74] - INFO: Telnet console listening on 127.0.0.1:6023
+2019-10-20 23:49:32,649 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (404) <GET https://www.piaohua.com/robots.txt> (referer: None)
+2019-10-20 23:49:33,017 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dianying.html> (referer: None)
+2019-10-20 23:49:33,118 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:33,795 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/daylianxuju.html> (referer: None)
+2019-10-20 23:49:33,895 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:35,570 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/zuixindianying.html> (referer: None)
+2019-10-20 23:49:35,672 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:36,336 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dianying.html> (referer: None)
+2019-10-20 23:49:36,438 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:38,390 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/kongbu/2019/1019/42746.html> (referer: None)
+2019-10-20 23:49:38,495 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:38,497 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/kongbu/2019/1019/42746.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:40,090 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/kongbu/2019/1019/42745.html> (referer: None)
+2019-10-20 23:49:40,193 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:40,194 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/kongbu/2019/1019/42745.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:40,581 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/1019/42747.html> (referer: None)
+2019-10-20 23:49:40,682 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:40,683 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/xiju/2019/1019/42747.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:41,617 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1019/42744.html> (referer: None)
+2019-10-20 23:49:41,718 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:41,720 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/dongzuo/2019/1019/42744.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:43,030 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/kongbu/2019/1017/42742.html> (referer: None)
+2019-10-20 23:49:43,131 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:43,133 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/kongbu/2019/1017/42742.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:44,480 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1017/42740.html> (referer: None)
+2019-10-20 23:49:44,582 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:44,583 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/dongzuo/2019/1017/42740.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:46,616 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1017/42739.html> (referer: None)
+2019-10-20 23:49:46,716 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:46,718 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/juqing/2019/1017/42739.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:47,507 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1017/42726.html> (referer: None)
+2019-10-20 23:49:47,609 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:47,610 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/dongzuo/2019/1017/42726.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:49,846 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1015/42717.html> (referer: None)
+2019-10-20 23:49:49,949 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:49,950 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/juqing/2019/1015/42717.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:51,802 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1015/42715.html> (referer: None)
+2019-10-20 23:49:51,813 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1016/42725.html> (referer: None)
+2019-10-20 23:49:51,904 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:51,905 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/juqing/2019/1015/42715.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:51,916 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:51,917 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/juqing/2019/1016/42725.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:52,283 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1014/42714.html> (referer: None)
+2019-10-20 23:49:52,384 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:52,386 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/juqing/2019/1014/42714.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:53,330 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/0920/42636.html> (referer: None)
+2019-10-20 23:49:53,431 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:53,432 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/dongzuo/2019/0920/42636.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:54,615 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/1012/42713.html> (referer: None)
+2019-10-20 23:49:54,717 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:54,719 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/xiju/2019/1012/42713.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:55,891 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1012/42711.html> (referer: None)
+2019-10-20 23:49:55,992 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:55,993 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/dongzuo/2019/1012/42711.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:58,040 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1012/42709.html> (referer: None)
+2019-10-20 23:49:58,142 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:58,144 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/juqing/2019/1012/42709.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:58,882 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/1011/42708.html> (referer: None)
+2019-10-20 23:49:58,983 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:58,985 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/xiju/2019/1011/42708.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:49:59,798 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/0919/42635.html> (referer: None)
+2019-10-20 23:49:59,899 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:49:59,903 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/xiju/2019/0919/42635.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logger.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:00,583 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/1010/42702.html> (referer: None)
+2019-10-20 23:50:00,684 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:00,686 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/xiju/2019/1010/42702.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:02,277 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/kongbu/2019/1011/42706.html> (referer: None)
+2019-10-20 23:50:02,379 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:02,381 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/kongbu/2019/1011/42706.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:03,439 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1010/42704.html> (referer: None)
+2019-10-20 23:50:03,541 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:03,543 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/juqing/2019/1010/42704.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:03,842 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/aiqing/2019/1010/42705.html> (referer: None)
+2019-10-20 23:50:03,944 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:03,944 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/aiqing/2019/1010/42705.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:06,132 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1010/42703.html> (referer: None)
+2019-10-20 23:50:06,236 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:06,237 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/dongzuo/2019/1010/42703.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:06,929 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1010/42700.html> (referer: None)
+2019-10-20 23:50:07,030 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:07,032 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/juqing/2019/1010/42700.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:07,985 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/daylianxuju.html> (referer: None)
+2019-10-20 23:50:08,086 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:09,194 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1007/42690.html> (referer: None)
+2019-10-20 23:50:09,296 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:09,297 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/lianxuju/2019/1007/42690.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:10,057 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1007/42687.html> (referer: None)
+2019-10-20 23:50:10,159 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:10,161 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/lianxuju/2019/1007/42687.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:11,522 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1005/42675.html> (referer: None)
+2019-10-20 23:50:11,625 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:11,626 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:159] - ERROR: Spider error processing <GET https://www.piaohua.com/html/lianxuju/2019/1005/42675.html> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 84, in evaluate_iterable
+    for r in iterable:
+  File "c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py", line 124, in parse
+    logging.info(item)
+NameError: name 'logger' is not defined
+2019-10-20 23:50:12,130 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\crawler.py[line:276] - INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2019-10-20 23:50:12,130 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:295] - INFO: Closing spider (shutdown)
+2019-10-20 23:50:12,309 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1005/42674.html> (referer: None)
+2019-10-20 23:50:12,410 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\crawler.py[line:283] - INFO: Received SIGINT twice, forcing unclean shutdown
+2019-10-20 23:50:21,826 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:100] - INFO: 开始每日刷新
+2019-10-20 23:50:21,829 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\urllib3\connectionpool.py[line:815] - DEBUG: Starting new HTTPS connection (1): www.piaohua.com:443
+2019-10-20 23:50:22,080 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\urllib3\connectionpool.py[line:396] - DEBUG: https://www.piaohua.com:443 "GET / HTTP/1.1" 200 None
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-10-20 23:50:22,207 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.002366742794288883
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.02015209264287547
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.06851374098108436
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.04394059928397169
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.035625089185150276
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.363512527007969
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-10-20 23:50:22,208 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-10-20 23:50:22,209 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-10-20 23:50:22,209 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-10-20 23:50:22,209 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-10-20 23:50:22,209 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-10-20 23:50:22,209 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-10-20 23:50:22,209 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-10-20 23:50:22,209 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dianying.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/daylianxuju.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/zuixindianying.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dianying.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1019/42746.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1019/42745.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1019/42747.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1019/42744.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1017/42742.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1017/42740.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1017/42739.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1017/42726.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1016/42725.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1015/42717.html
+2019-10-20 23:50:22,234 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1015/42715.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1014/42714.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/0920/42636.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1012/42713.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1012/42711.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1012/42709.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1011/42708.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/0919/42635.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/xiju/2019/1010/42702.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/kongbu/2019/1011/42706.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1010/42704.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/aiqing/2019/1010/42705.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/dongzuo/2019/1010/42703.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/juqing/2019/1010/42700.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/daylianxuju.html
+2019-10-20 23:50:22,235 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1007/42690.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1007/42687.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1005/42675.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1005/42674.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42728.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1006/42684.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1008/42698.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1008/42697.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42738.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42737.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42734.html
+2019-10-20 23:50:22,236 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:80] - INFO: 每日更新链接:/html/lianxuju/2019/1017/42733.html
+2019-10-20 23:50:22,261 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:146] - INFO: Scrapy 1.7.2 started (bot: piaohua)
+2019-10-20 23:50:22,262 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:149] - INFO: Versions: lxml 4.4.0.0, libxml2 2.9.5, cssselect 1.0.3, parsel 1.5.1, w3lib 1.20.0, Twisted 19.2.1, Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)], pyOpenSSL 19.0.0 (OpenSSL 1.1.1c  28 May 2019), cryptography 2.7, Platform Windows-10-10.0.17763-SP0
+2019-10-20 23:50:22,266 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\crawler.py[line:49] - INFO: Overridden settings: {'BOT_NAME': 'piaohua', 'DOWNLOAD_DELAY': 1, 'LOG_FILE': 'C:\\Scrapy\\log\\scrapy_1571586621.5880673_.log', 'LOG_STDOUT': True, 'NEWSPIDER_MODULE': 'piaohua.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['piaohua.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5'}
+2019-10-20 23:50:22,285 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\extensions\telnet.py[line:60] - INFO: Telnet Password: e157339a53a4acc5
+2019-10-20 23:50:22,306 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\middleware.py[line:48] - INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2019-10-20 23:50:22,612 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\middleware.py[line:48] - INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2019-10-20 23:50:22,616 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\middleware.py[line:48] - INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2019-10-20 23:50:22,617 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\middleware.py[line:48] - INFO: Enabled item pipelines:
+['piaohua.pipelines.PiaohuaPipeline']
+2019-10-20 23:50:22,617 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:256] - INFO: Spider opened
+2019-10-20 23:50:22,620 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\extensions\logstats.py[line:48] - INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2019-10-20 23:50:22,621 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\extensions\telnet.py[line:74] - INFO: Telnet console listening on 127.0.0.1:6023
+2019-10-20 23:50:23,067 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (404) <GET https://www.piaohua.com/robots.txt> (referer: None)
+2019-10-20 23:50:23,561 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dianying.html> (referer: None)
+2019-10-20 23:50:23,664 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:25,799 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/daylianxuju.html> (referer: None)
+2019-10-20 23:50:25,902 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:26,328 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/zuixindianying.html> (referer: None)
+2019-10-20 23:50:26,429 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:26,980 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dianying.html> (referer: None)
+2019-10-20 23:50:27,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:28,818 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/kongbu/2019/1019/42746.html> (referer: None)
+2019-10-20 23:50:28,923 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:28,927 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['magnet:?xt=urn:btih:421b553b7d6a360ab08c840a7572e3f3eb6e0e76&dn=凶机恶煞BD中字[飘花www.piaohua.com].mp4'],
+ 'movename': '凶机恶煞BD1280高清'}
+2019-10-20 23:50:28,927 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:29,398 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/kongbu/2019/1019/42746.html>
+None
+2019-10-20 23:50:29,577 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/kongbu/2019/1019/42745.html> (referer: None)
+2019-10-20 23:50:29,678 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:29,679 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['magnet:?xt=urn:btih:b290360cc9a95606976cf1b46c445f62489daf39&dn=禁闭男童BD中字[飘花www.piaohua.com].mp4'],
+ 'movename': '禁闭男童BD1280高清'}
+2019-10-20 23:50:29,680 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:30,218 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/kongbu/2019/1019/42745.html>
+None
+2019-10-20 23:50:30,458 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/1019/42747.html> (referer: None)
+2019-10-20 23:50:30,560 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:30,561 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['magnet:?xt=urn:btih:0b32b7cf3c0dba2f73fe58fcb9c581ee9e0a646a&dn=小怪物BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '小怪物BD1280高清'}
+2019-10-20 23:50:30,562 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:30,875 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/xiju/2019/1019/42747.html>
+None
+2019-10-20 23:50:31,955 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1019/42744.html> (referer: None)
+2019-10-20 23:50:32,056 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:32,057 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['magnet:?xt=urn:btih:63d1af2596c6279a0701ca9ed3c0f1e47b3e10cc&dn=坏家伙们HD韩语中字[飘花www.piaohua.com].mkv'],
+ 'movename': '坏家伙们HD1280高清'}
+2019-10-20 23:50:32,058 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:32,348 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/dongzuo/2019/1019/42744.html>
+None
+2019-10-20 23:50:33,400 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/kongbu/2019/1017/42742.html> (referer: None)
+2019-10-20 23:50:33,502 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:33,503 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-18',
+ 'movedownlink': ['magnet:?xt=urn:btih:4969f29728ad26b28f7d84a31b315f0c34724da2&dn=千尸屋3BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '千尸屋3BD1280高清'}
+2019-10-20 23:50:33,503 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:33,823 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/kongbu/2019/1017/42742.html>
+None
+2019-10-20 23:50:33,945 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1017/42740.html> (referer: None)
+2019-10-20 23:50:34,045 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:34,046 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-18',
+ 'movedownlink': ['magnet:?xt=urn:btih:b98290bd1f9b96495b7ff3d56d9c41c8967848db&dn=你失去的部分BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '你失去的部分BD1280高清'}
+2019-10-20 23:50:34,047 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:34,347 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/dongzuo/2019/1017/42740.html>
+None
+2019-10-20 23:50:35,391 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1017/42739.html> (referer: None)
+2019-10-20 23:50:35,494 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:35,495 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-17',
+ 'movedownlink': ['magnet:?xt=urn:btih:0d122b3996436cbf41c6c82d854b8ce846c4903c&dn=明日情缘BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '明日情缘BD1280高清'}
+2019-10-20 23:50:35,495 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:35,775 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/juqing/2019/1017/42739.html>
+None
+2019-10-20 23:50:36,084 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1017/42726.html> (referer: None)
+2019-10-20 23:50:36,184 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:36,185 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-17',
+ 'movedownlink': ['magnet:?xt=urn:btih:fd891918e1684dd5610dae3f5fc8754f751f204b&dn=罗小黑战记HD国语中字[飘花www.piaohua.com].mkv'],
+ 'movename': '罗小黑战记HD1280高清'}
+2019-10-20 23:50:36,186 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:36,509 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/dongzuo/2019/1017/42726.html>
+None
+2019-10-20 23:50:39,192 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1016/42725.html> (referer: None)
+2019-10-20 23:50:39,294 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:39,296 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-17',
+ 'movedownlink': ['magnet:?xt=urn:btih:d87ee450fd16a3b454d54e97766f0c226bc5aaf6&dn=在无爱之森呐喊BD中字[飘花www.piaohua.com].mp4'],
+ 'movename': '在无爱之森呐喊BD1280高清'}
+2019-10-20 23:50:39,297 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:39,579 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/juqing/2019/1016/42725.html>
+None
+2019-10-20 23:50:39,892 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1015/42715.html> (referer: None)
+2019-10-20 23:50:39,993 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:39,995 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-15',
+ 'movedownlink': ['magnet:?xt=urn:btih:46d765aedd71654bfb44ec50acc03e1615141548&dn=断裂BD中字[飘花www.piaohua.com].mp4'],
+ 'movename': '断裂BD1280高清'}
+2019-10-20 23:50:39,995 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:40,299 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/juqing/2019/1015/42715.html>
+None
+2019-10-20 23:50:41,029 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1015/42717.html> (referer: None)
+2019-10-20 23:50:41,131 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:41,132 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-15',
+ 'movedownlink': ['magnet:?xt=urn:btih:217f73b0ac309907030bcb350ac369e85c9ff701&dn=拾芳BD国粤双语中字[飘花www.piaohua.com].mp4'],
+ 'movename': '拾芳BD1280高清国粤双语'}
+2019-10-20 23:50:41,132 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:41,471 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/juqing/2019/1015/42717.html>
+None
+2019-10-20 23:50:41,473 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1014/42714.html> (referer: None)
+2019-10-20 23:50:41,573 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:41,574 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-15',
+ 'movedownlink': ['magnet:?xt=urn:btih:d1afcd78f32720d193fe9302bf5e47f1a427d849&dn=江边旅馆BD韩语中字[飘花www.piaohua.com].mp4'],
+ 'movename': '江边旅馆BD1280高清'}
+2019-10-20 23:50:41,575 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:41,859 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/juqing/2019/1014/42714.html>
+None
+2019-10-20 23:50:42,206 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/0920/42636.html> (referer: None)
+2019-10-20 23:50:42,308 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:42,309 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-14',
+ 'movedownlink': ['magnet:?xt=urn:btih:408e4b7c2a0ca5fde14eb1a0f177bd9b92228632&dn=速度与激情：特别行动BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '速度与激情：特别行动BD1280高清'}
+2019-10-20 23:50:42,309 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:42,662 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/dongzuo/2019/0920/42636.html>
+None
+2019-10-20 23:50:44,466 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/1012/42713.html> (referer: None)
+2019-10-20 23:50:44,568 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:44,569 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-12',
+ 'movedownlink': ['magnet:?xt=urn:btih:d82f0e03ae50bfb9bd184823f873d017b99e2957&dn=自卫的艺术BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '自卫艺术BD1280高清'}
+2019-10-20 23:50:44,570 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:44,954 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/xiju/2019/1012/42713.html>
+None
+2019-10-20 23:50:44,956 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1012/42711.html> (referer: None)
+2019-10-20 23:50:45,058 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:45,059 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-12',
+ 'movedownlink': ['magnet:?xt=urn:btih:9907d231afed9c3c5bad308b28439a40fa0b1b88&dn=续命之徒：绝命毒师电影BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '续命之徒：绝命毒师电影BD1280高清'}
+2019-10-20 23:50:45,059 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:45,330 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/dongzuo/2019/1012/42711.html>
+None
+2019-10-20 23:50:45,448 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1012/42709.html> (referer: None)
+2019-10-20 23:50:45,550 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:45,551 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-12',
+ 'movedownlink': ['magnet:?xt=urn:btih:774fbecb703b3e19d8cd773dcd0880d4b6eab04b&dn=迪克·朗之死BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '迪克·朗之死BD1280高清'}
+2019-10-20 23:50:45,551 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:45,902 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/juqing/2019/1012/42709.html>
+None
+2019-10-20 23:50:46,784 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/1011/42708.html> (referer: None)
+2019-10-20 23:50:46,884 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:46,885 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-11',
+ 'movedownlink': ['magnet:?xt=urn:btih:be809309536ca24c87596dd7e7714ca2fdce1fe5&dn=哪吒之魔童降世HD国语中字[飘花www.piaohua.com].mkv'],
+ 'movename': '哪吒之魔童降世HD1280高清'}
+2019-10-20 23:50:46,885 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:47,166 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/xiju/2019/1011/42708.html>
+None
+2019-10-20 23:50:47,428 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/0919/42635.html> (referer: None)
+2019-10-20 23:50:47,529 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:47,531 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-11',
+ 'movedownlink': ['magnet:?xt=urn:btih:98705d70a0bfd153d7d283f1ec141e8a36ec146f&dn=玩具总动员4BD中英双字[飘花www.piaohua.com].mp4\r',
+                  'magnet:?xt=urn:btih:46529dc07170d23eef16782288881e10e7d282d9&dn=玩具总动员4BD国粤英三语中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '玩具总动员4BD1280高清国英双语'}
+2019-10-20 23:50:47,532 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:47,854 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/xiju/2019/0919/42635.html>
+None
+2019-10-20 23:50:48,615 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/xiju/2019/1010/42702.html> (referer: None)
+2019-10-20 23:50:48,716 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:48,718 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-11',
+ 'movedownlink': ['magnet:?xt=urn:btih:3d453247dc5b141e6a325ff609b03eab1417d8b1&dn=我的一级兄弟HD韩语中字[飘花www.piaohua.com].mp4'],
+ 'movename': '我的一级兄弟HD1280高清'}
+2019-10-20 23:50:48,718 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:48,985 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/xiju/2019/1010/42702.html>
+None
+2019-10-20 23:50:49,972 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/kongbu/2019/1011/42706.html> (referer: None)
+2019-10-20 23:50:50,074 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:50,075 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-11',
+ 'movedownlink': ['magnet:?xt=urn:btih:ccea6d0a73ec90db80d6400e97dd1f9fb1c9f506&dn=在黑暗中讲述的恐怖故事BD中英双字[飘花www.piaohua.com].mp4'],
+ 'movename': '在黑暗中讲述的恐怖故事BD1280高清'}
+2019-10-20 23:50:50,075 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:50,414 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/kongbu/2019/1011/42706.html>
+None
+2019-10-20 23:50:51,144 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1010/42704.html> (referer: None)
+2019-10-20 23:50:51,246 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:51,247 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-11',
+ 'movedownlink': ['magnet:?xt=urn:btih:4071cf93e0feba2463ea40c60d711f3f36be1770&dn=铤而走险HD国语中字[飘花www.piaohua.com].mkv'],
+ 'movename': '铤而走险HD1280高清'}
+2019-10-20 23:50:51,248 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:51,601 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/juqing/2019/1010/42704.html>
+None
+2019-10-20 23:50:52,176 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/aiqing/2019/1010/42705.html> (referer: None)
+2019-10-20 23:50:52,278 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:52,279 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-11',
+ 'movedownlink': ['magnet:?xt=urn:btih:32469833b8c0ad34e3a0886e63ee765ebc334a2f&dn=真爱不迟到HD国语中字[飘花www.piaohua.com].mkv'],
+ 'movename': '真爱不迟到HD1280高清'}
+2019-10-20 23:50:52,279 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:52,593 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/aiqing/2019/1010/42705.html>
+None
+2019-10-20 23:50:53,623 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/dongzuo/2019/1010/42703.html> (referer: None)
+2019-10-20 23:50:53,725 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:53,726 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-11',
+ 'movedownlink': ['magnet:?xt=urn:btih:4454467e0cebeff17c0b872ea02359c18604bbb4&dn=野兽HD韩语中字[飘花www.piaohua.com].mp4'],
+ 'movename': '野兽HD1280高清'}
+2019-10-20 23:50:53,727 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:54,042 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/dongzuo/2019/1010/42703.html>
+None
+2019-10-20 23:50:54,389 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/juqing/2019/1010/42700.html> (referer: None)
+2019-10-20 23:50:54,490 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:54,490 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-10',
+ 'movedownlink': ['magnet:?xt=urn:btih:c1953003dbff7b42f46ec70de3d7f4c57cbe9ed9&dn=半世界BD日语中字[飘花www.piaohua.com].mp4'],
+ 'movename': '半世界BD1280高清'}
+2019-10-20 23:50:54,491 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:54,784 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/juqing/2019/1010/42700.html>
+None
+2019-10-20 23:50:55,798 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/daylianxuju.html> (referer: None)
+2019-10-20 23:50:55,899 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:58,033 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1007/42690.html> (referer: None)
+2019-10-20 23:50:58,133 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:58,134 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['ftp://h:h@tv.kaida365.com:2199/奔跑的调查官01.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官02.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官03.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官04.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官05.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官06.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官07.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官08.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官09.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/奔跑的调查官10.mp4'],
+ 'movename': '奔跑的调查官连载至10集'}
+2019-10-20 23:50:58,134 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:58,466 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1007/42690.html>
+None
+2019-10-20 23:50:58,711 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1007/42687.html> (referer: None)
+2019-10-20 23:50:58,812 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:50:58,814 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['ftp://h:h@tv.kaida365.com:2199/山茶花开时01-02.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时03-04.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时05-06.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时07-08.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时09-10.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时11-12.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时13-14.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时15-16.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时17-18.mp4\r',
+                  'ftp://h:h@tv.kaida365.com:2199/山茶花开时19-20.mp4'],
+ 'movename': '山茶花开时连载至20集'}
+2019-10-20 23:50:58,814 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:50:59,137 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1007/42687.html>
+None
+2019-10-20 23:50:59,997 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1005/42675.html> (referer: None)
+2019-10-20 23:51:00,098 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:00,100 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['ftp://g:g@tv.kaida365.com:2166/外貌至上主义01.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义02.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义03.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义04.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义05.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义06.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义07.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义08.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义09.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义10.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义11.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义12.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义13.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义14.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义15.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义16.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义17.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义18.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义19.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义20.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义21.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义22.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义23.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义24.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义25.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义26.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义27.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义28.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义29.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/外貌至上主义30.mp4'],
+ 'movename': '外貌至上主义连载至30集'}
+2019-10-20 23:51:00,100 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:00,388 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1005/42675.html>
+None
+2019-10-20 23:51:01,616 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1005/42674.html> (referer: None)
+2019-10-20 23:51:01,717 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:01,719 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['ftp://g:g@tv.kaida365.com:2166/在远方2019-01.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-02.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-03.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-04.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-05.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-06.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-07.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-08.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-09.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-10.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-11.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-12.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-13.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-14.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-15.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-16.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-17.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-18.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-19.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-20.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-21.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-22.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-23.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-24.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-25.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-26.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-27.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-28.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-29.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-30.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-31.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-32.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-33.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-34.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-35.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-36.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-37.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-38.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-39.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-40.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-41.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-42.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-43.mp4\r',
+                  'ftp://g:g@tv.kaida365.com:2166/在远方2019-44.mp4'],
+ 'movename': '在远方2019连载至44集'}
+2019-10-20 23:51:01,720 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:02,038 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1005/42674.html>
+None
+2019-10-20 23:51:03,661 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1006/42684.html> (referer: None)
+2019-10-20 23:51:03,761 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:03,762 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['ftp://m:m@tv.kaida365.com:2199/美国恐怖故事第九季01.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/美国恐怖故事第九季02.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/美国恐怖故事第九季03.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/美国恐怖故事第九季04.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/美国恐怖故事第九季05.mp4'],
+ 'movename': '美国恐怖故事第九季连载至5集'}
+2019-10-20 23:51:03,763 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:04,063 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1006/42684.html>
+None
+2019-10-20 23:51:04,472 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1017/42728.html> (referer: None)
+2019-10-20 23:51:04,575 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:04,576 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语01.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语02.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语03.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语04.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语05.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语06.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语07.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语08.mkv\r',
+                  'ftp://g:g@tv.kaida365.com:3100/牛下女高音粤语09.mkv'],
+ 'movename': '牛下女高音粤语连载至9集'}
+2019-10-20 23:51:04,576 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:04,909 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1017/42728.html>
+None
+2019-10-20 23:51:04,977 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1008/42698.html> (referer: None)
+2019-10-20 23:51:05,079 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:05,080 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['ftp://m:m@tv.kaida365.com:2199/反恐特警队第三季01.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/反恐特警队第三季02.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/反恐特警队第三季03.mp4'],
+ 'movename': '反恐特警队第三季连载至3集'}
+2019-10-20 23:51:05,081 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:05,366 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1008/42698.html>
+None
+2019-10-20 23:51:06,570 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1008/42697.html> (referer: None)
+2019-10-20 23:51:06,673 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:06,674 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-19',
+ 'movedownlink': ['ftp://m:m@tv.kaida365.com:2199/海豹突击队第三季01.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/海豹突击队第三季02.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/海豹突击队第三季03.mp4'],
+ 'movename': '海豹突击队第三季连载至3集'}
+2019-10-20 23:51:06,675 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:08,147 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1008/42697.html>
+None
+2019-10-20 23:51:08,267 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1017/42738.html> (referer: None)
+2019-10-20 23:51:08,386 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:08,387 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-17',
+ 'movedownlink': ['ftp://m:m@tv.kaida365.com:2199/蝙蝠女侠第一季01.mp4\r',
+                  'ftp://m:m@tv.kaida365.com:2199/蝙蝠女侠第一季02.mp4'],
+ 'movename': '蝙蝠女侠第一季连载至2集'}
+2019-10-20 23:51:08,387 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:08,677 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1017/42738.html>
+None
+2019-10-20 23:51:09,696 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1017/42737.html> (referer: None)
+2019-10-20 23:51:09,798 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:09,799 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-17',
+ 'movedownlink': ['ftp://m:m@tv.kaida365.com:2199/闪电侠第六季01.mp4'],
+ 'movename': '闪电侠第六季连载至1集'}
+2019-10-20 23:51:09,799 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:10,113 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1017/42737.html>
+None
+2019-10-20 23:51:11,004 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1017/42734.html> (referer: None)
+2019-10-20 23:51:11,105 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:11,106 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-17',
+ 'movedownlink': ['ftp://m:m@tv.kaida365.com:2199/绿箭侠第八季01.mp4'],
+ 'movename': '绿箭侠第八季连载至1集'}
+2019-10-20 23:51:11,106 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:11,416 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1017/42734.html>
+None
+2019-10-20 23:51:12,056 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:238] - DEBUG: Crawled (200) <GET https://www.piaohua.com/html/lianxuju/2019/1017/42733.html> (referer: None)
+2019-10-20 23:51:12,158 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in Parse
+2019-10-20 23:51:12,159 - D:\PythonCode\Spider\one\piaohua\piaohua\spiders\piaohuamove.py[line:124] - INFO: {'in_time': '2019-10-17',
+ 'movedownlink': ['ftp://m:m@tv.kaida365.com:2199/绊脚石第一季01.mp4'],
+ 'movename': '绊脚石第一季连载至1集'}
+2019-10-20 23:51:12,160 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\log.py[line:166] - INFO: in pipelines
+2019-10-20 23:51:12,449 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\scraper.py[line:241] - DEBUG: Scraped from <200 https://www.piaohua.com/html/lianxuju/2019/1017/42733.html>
+None
+2019-10-20 23:51:12,450 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:295] - INFO: Closing spider (finished)
+2019-10-20 23:51:12,451 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 11196,
+ 'downloader/request_count': 42,
+ 'downloader/request_method_count/GET': 42,
+ 'downloader/response_bytes': 206314,
+ 'downloader/response_count': 42,
+ 'downloader/response_status_count/200': 41,
+ 'downloader/response_status_count/404': 1,
+ 'elapsed_time_seconds': 49.831858,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 10, 20, 15, 51, 12, 451030),
+ 'item_scraped_count': 36,
+ 'log_count/DEBUG': 78,
+ 'log_count/INFO': 123,
+ 'log_count/WARNING': 36,
+ 'response_received_count': 42,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 41,
+ 'scheduler/dequeued/memory': 41,
+ 'scheduler/enqueued': 41,
+ 'scheduler/enqueued/memory': 41,
+ 'start_time': datetime.datetime(2019, 10, 20, 15, 50, 22, 619172)}
+2019-10-20 23:51:12,451 - c:\users\26258\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\engine.py[line:326] - INFO: Spider closed (finished)
